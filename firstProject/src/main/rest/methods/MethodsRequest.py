@@ -1,6 +1,6 @@
 from src.main.rest import HttpClient
 
-baseUrl = 'https://www.httpbin.org/'
+baseUrl = 'https://www.httpbin.org'
 
 
 def GET_method():
